@@ -8,6 +8,7 @@ The 'Alphabet Soup Mode Files' folder contains the Starter Code file, which is t
 The code contained in this repository is my work and mine alone. I received advice and input from Rice University's team of instructors (shoutout to Samad), but the code itself is my work. 
 
 Slay, serve, survive,
+
 -Olivia
 
 xoxo
