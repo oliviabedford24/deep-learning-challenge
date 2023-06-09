@@ -5,10 +5,6 @@ With our knowledge of machine learning and neural networks, we used the features
 
 The 'Alphabet Soup Mode Files' folder contains the Starter Code file, which is the initial preprocessing and running of the model without any optimization made. The three AlphabetSoupCharity_Optimization files contain the edits made to boost the accuracy of the model. The summary and analysis of these models is contained in the 'Alphabet Soup Model Analysis' pdf file on the main branch.
 
-The code contained in this repository is my work and mine alone. I received advice and input from Rice University's team of instructors (shoutout to Samad), but the code itself is my work. 
+The code contained in this repository is my work and mine alone.
 
-Slay, serve, survive,
-
--Olivia
-
-xoxo
+Thank you!
